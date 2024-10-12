@@ -1,0 +1,4 @@
+<map id="Vertex" name="Vertex">
+<area shape="rect" id="node1" title="Class that represents a location (Reservoir/Pumping Station/City) in the form of vertex." alt="" coords="13,5,77,32"/>
+<area shape="rect" id="node2" href="$classEdge.html" title="Class that represents a pipe in the form of edge." alt="" coords="18,109,72,136"/>
+</map>
