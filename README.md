@@ -8,6 +8,7 @@ Welcome to the **DA-Hub**, a repository containing my projects for the **Algorit
    - **Description**: Implement an analysis tool that can support
 the Management Team of a water supply network in Portugal to make informed decisions about how to
 best allocate its resources, both financial as well as physical.
+
    - **Developed by**:
       - **Alexandre Ramos** (up202208028)
       - **Francisco Afonso** (up202208115)
