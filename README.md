@@ -1,4 +1,4 @@
-# DA-Hub
+# DA-Vault
 
 Welcome to the **DA-Vault**, a repository containing my projects for the **Algorithm Design (Desenho de Algoritmos)** course. Here, you'll find various algorithmic techniques of wide applicability, such as brute-force, backtracking, divide-and-conquer, greedy and dynamic programming, ubiquitous in real-life algorithmic implementation solutions.
 
